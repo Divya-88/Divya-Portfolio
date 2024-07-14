@@ -441,6 +441,6 @@ a {
 
       .banner .container{
         background-color:rgba(17, 38, 62, 0.7);
-        width: 900px;
+        /* width: 900px; */
         /* padding: 0; */
       }
