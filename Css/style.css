@@ -1,5 +1,5 @@
 body{
-        font-family: "Poppins", sans-serif;
+        font-family: "Roboto", sans-serif;
         font-weight: 400;
         font-style: normal;
         /* background-color: #0d223c; */
@@ -429,4 +429,18 @@ a {
     
       ul.horizontal-list li { 
         margin: 10px; 
+      }
+
+      div .container-fluid{
+        background-color:rgba(186, 186, 186, 0.2);
+      }
+
+      .timeline{
+        opacity:1;
+      }
+
+      .banner .container{
+        background-color:rgba(17, 38, 62, 0.7);
+        width: 900px;
+        /* padding: 0; */
       }
